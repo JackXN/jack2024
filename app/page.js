@@ -4,7 +4,7 @@ import Cardboard from '../public/images/bg/cardboard.jpg';
 import Holup from './Holup';
 
 export default function Home() {
-  const beingDeveloped = false;
+  const beingDeveloped = true;
 
   return (
     <>
@@ -25,8 +25,6 @@ export default function Home() {
           :
           <Nav/>
           
-
-
         }
       </div>
     </>
