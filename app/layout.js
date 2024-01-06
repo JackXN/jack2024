@@ -3,6 +3,9 @@ import './globals.css';
 import Nav from './components/Navigation/Nav';
 
 
+// Custom Css
+import './animista.css'
+
 // Fonts
 import '@fontsource-variable/hanken-grotesk';
 
